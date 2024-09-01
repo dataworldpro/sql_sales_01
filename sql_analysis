@@ -1,5 +1,5 @@
 
---------- Sales Analysis ---------------
+--------- Sales Analysis using SQL ---------------
 
 select * from sales_data_sample
 
